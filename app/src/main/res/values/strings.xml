@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hermes</string>
+    <string name="entrar_Button">Entrar</string>
+    <string name="problemas_com_login">Problemas com login?</string>
+</resources>
